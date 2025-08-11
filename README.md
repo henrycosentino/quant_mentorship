@@ -5,5 +5,5 @@
 - [**#1: Introduction to Python**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/1_introduction.ipynb): focusing on the fundamentals of Python and object-oriented programming.
 - [**#2: Iteration**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/2_iteration.ipynb): a lesson that focuses on iteration, with applications to functions (KNN algorithm) that can be implemented with iterative processes.
 - [**#3: Classes**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/3_classes.ipynb): focuses on the basic tricks and techniques of classes in Python, with applications to Decision Tree and Random Forest algorithm implmenetation using Pythons class structure.
-- [**#4: Functions**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/4_functions.ipynb): a lesson on lambda function, function arguments, higher order functions, and decorators
-- [**#5: Concurrency**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/5_concurrency.ipynb): a mini lesson on...
+- [**#4: Functions**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/4_functions.ipynb): a lesson on lambda function, function arguments, higher order functions, and decorators.
+- [**#5: Concurrency**](https://github.com/henrycosentino/quant_mentorship/blob/main/Lessons/5_concurrency.ipynb): a mini lesson on threading and the concurrent.futures library in Python.
